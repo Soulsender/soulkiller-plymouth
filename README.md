@@ -1,4 +1,7 @@
 # soulkiller-plymouth
+
+![Alt text](soulkiller_logo.png)
+
 Custom plymouth theme for SoulkillerOS
 
 ### Usage
